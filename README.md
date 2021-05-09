@@ -6,7 +6,7 @@ code aangepast naar max 1 guess en 1 woordkeuze om sneller te kunnen testen.
 in Gameover component bij return statement de win en looseResulkts omgedraaid:
 nu komt ook de tweede keus naar voren:
 Wordguessed is dus steeds FALSE  
-Wordguessed als variable {} in de <p> gezet <P>
+Wordguessed als variable {} in de 'paragraaf' gezet om te checken of hij 'binnenkomt' : maar waarde is undivined 
 Naar app.js gegaan om de props te checken : daar zie ik een typo : een s mist in wordGuessed op (line 31)
 
 Bug exercise 2: 
